@@ -8,6 +8,6 @@
 
 ![Image Name](recycling_by_year.png)
 
-- After London won gold in the Environmental and Sustainability awards in Olympic Games, a decrease in financial and political support for recycling projects might have impacted the recycling rates.
+- After London won gold in the Environmental and Sustainability awards in Olympic Games, a decrease in financial and political support for recycling projects might have impacted.
 
 ![Image Name](recycling_by_area.png)
