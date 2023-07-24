@@ -2,7 +2,7 @@
 
 ## London Housing Market Analysis
 
-### Key Takeaways
+### Key Takeaway
 
 - After London won gold in the 2012 Environmental and Sustainability awards in Olympic Games, a decrease in financial and political support for recycling projects might have impacted.
 
@@ -12,7 +12,7 @@
 
 ## Classification: Income Prediction Based on Demographic and Socioeconomic Factors
 
-### Key Takeaways
+### Key Takeaway
 
 - Accuracy: 0.8524
 
@@ -24,8 +24,18 @@
 
 ## Time Series: Analyzing Weather Data from Open-Meteo API
 
-### Key Takeaways
+### Key Takeaway
 
 - In July 20, 2024, the hottest day is recorded with a maximum mean temperature of 29.6°C, considering both day and night temperatures.
 
 ![Image Name](assets/image/time_series.png)
+
+***
+
+## Calorie Prediction Through Nutritionals
+
+### Key Takeaway
+
+- The calorie prediction model demonstrates a robust fit to the data, with an impressive R2 value of 0.91, explaining about 91% of the variance in the target variable (calories). Moreover, it accurately predicts the calorie value for the Apple Pie test data, yielding an estimate of 287.93 calories.
+
+![Image Name](assets/image/regression.png)
