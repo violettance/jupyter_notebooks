@@ -26,6 +26,6 @@
 
 ### Key Takeaways
 
-- In July 20, 2024, the hottest day is recorded with a maximum mean temperature of 29.6°C, considering both day and night temperatures.
+- On July 20, 2024, the hottest day will be recorded with a maximum average temperature of 29.6°C, considering both day and night temperatures.
 
 ![Image Name](assets/image/time_series.png)
