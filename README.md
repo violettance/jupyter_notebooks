@@ -26,9 +26,10 @@
 
 ### Key Takeaway
 
-- In July 20, 2024, the hottest day is recorded with a maximum mean temperature of 29.6°C, considering both day and night temperatures.
+- On July 20, 2024, the hottest day will be recorded with a maximum average temperature of 29.6°C, considering both day and night temperatures.
 
 ![Image Name](assets/image/time_series.png)
+<<<<<<< HEAD
 
 ***
 
@@ -39,3 +40,5 @@
 - The calorie prediction model demonstrates a robust fit to the data, with an impressive R2 value of 0.91, explaining about 91% of the variance in the target variable (calories). Moreover, it accurately predicts the calorie value for the Apple Pie test data, yielding an estimate of 287.93 calories.
 
 ![Image Name](assets/image/regression.png)
+=======
+>>>>>>> 5162b89570cb118bbda20c2f76856903c7198cf4
