@@ -40,3 +40,13 @@
 - The calorie prediction model demonstrates a robust fit to the data, with an impressive R2 value of 0.91, explaining about 91% of the variance in the target variable (calories). Moreover, it accurately predicts the calorie value for the Apple Pie test data, yielding an estimate of 287.93 calories.
 
 ![Image Name](assets/image/regression.png)
+
+***
+
+## Unveiling Musical Patterns: Song Analysis and Likeness Prediction
+
+### Key Takeaway
+
+- The "Liked Songs" playlist on Spotify has been divided into two main clusters. When comparing Cluster 1 and Cluster 3, significant differences are observed in the audio features danceability and instrumentalness. Cluster 1 contains songs that are more instrumental and have higher danceability. The artist with the most songs in the playlist is Oscar and the Wolf.
+
+![Image Name](assets/image/spotify_clustering.png)
