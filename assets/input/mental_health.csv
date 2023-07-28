@@ -1,0 +1,469 @@
+Timestamp,Gender,Age,Department,Are_you_happy_with_your_department_work_area,Why_did_you_chosen_your_department_work_area,Current_year_you_are_studying_in,Cgpa,Are_you_having_proper_sleep_everyday,How_much_time_are_you_sleeping_everyday,Are_you_getting_good_food_diet_everyday,What_is_your_screen_time,On_what_do_you_spend_your_screen_time_more,From_where_you_are_getting_stress,When_you_are_stressed_more,What_will_you_like_to_do_when_you_are_stressed,How_did_you_felt_during_COVID_19_pandemic_period,concentrate_on_your_work_when_you_are_stressed
+24-08-2022 22:32,Female,18,CSE,Yes,Interested,3,8,Yes,8,No,7,Social Media,Family,During exams,Listen's Music,Depressed,No
+24-08-2022 22:52,Male,18,CSE,Yes,Interested,3,8.44,Yes,8,Yes,6,Video games,Studies/work,During exams,Sharing feelings with someone,Stressed,No
+24-08-2022 22:57,Male,19,CSE,Yes,Interested,3,8.07,No,8,No,3,Studies,Studies/work,During exams,Travelling,Boring,No
+24-08-2022 23:04,Male,24,CSE,No,Future scope,3,8,No,8,No,7,Other  ( Series/Movies ),Thinking about future,About Love,Sharing feelings with someone,Happy,No
+25-08-2022 19:20,Male,19,CSE,Yes,All are choosing so I also chosen,3,9,Yes,8,Yes,3,Social Media,Family,During exams,Listen's Music,"Depressed, Stressed, Happy, Boring",No
+25-08-2022 19:31,Female,20,CSE,Yes,Interested,3,9,Yes,8,Yes,3,Social Media,Studies/work,During exams,Doing any physical activity,"Happy, Boring",No
+25-08-2022 19:45,Female,20,CSE,No,Due to Family pressure,3,8.01,No,6,No,3,Social Media,Health,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 20:34,Male,20,IT,Yes,Future scope,2,7,Yes,8,Yes,6,Other  ( Series/Movies ),Thinking about future,About Faculty,Doing any physical activity,Happy,Yes
+25-08-2022 20:37,Female,20,CSE,No,Due to Family pressure,3,7.59,No,7,No,7,Social Media,Studies/work,No sleep,Sharing feelings with someone,Boring,No
+25-08-2022 20:38,Female,20,IT,No,Due to Family pressure,2,8.5,No,7,No,8,Social Media,Thinking about future,About Faculty,Being calm or Being alone,Depressed,No
+25-08-2022 20:38,Female,20,CSE,Yes,Interested,4,9.03,Yes,5,No,6,Social Media,Studies/work,During exams,Listen's Music,"Stressed, Boring",No
+25-08-2022 20:39,Male,20,CSE,Yes,Due to Family pressure,3,7.56,Yes,4,No,8,Other  ( Series/Movies ),Thinking about future,About Money,Being calm or Being alone,Happy,No
+25-08-2022 20:39,Male,22,CSE,Yes,Interested,3,9.19,Yes,6,Yes,7,Social Media,Thinking about future,About Love,Travelling,"Depressed, Happy, Boring",No
+25-08-2022 20:40,Female,22,CSE,Yes,Interested,2,8,Yes,8,Yes,7,Social Media,Thinking about future,Threaten,Doing any physical activity,Boring,No
+25-08-2022 20:41,Male,22,CSE,Yes,Interested,4,8.36,Yes,7,Yes,6,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,"Depressed, Stressed",Yes
+25-08-2022 20:41,Female,22,CSE,Yes,Future scope,3,8.2,Yes,6,No,6,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Happy,No
+25-08-2022 20:42,Female,22,IT,Yes,Interested,2,8.11,No,5,No,7,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Happy,No
+25-08-2022 20:42,Female,19,IT,Yes,Interested,2,7.29,No,5,No,8,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Happy,No
+25-08-2022 20:42,Female,19,CSE,Yes,Due to Family pressure,4,7.06,No,4,No,5,Other  ( Series/Movies ),Thinking about future,About Money,Listen's Music,"Depressed, Happy",No
+25-08-2022 20:42,Female,19,CSE,Yes,Future scope,4,7.8,Yes,8,No,8,Social Media,Thinking about future,During exams,Sharing feelings with someone,"Stressed, Boring",No
+25-08-2022 20:42,Female,19,ECE,Yes,Interested,4,0,Yes,7,No,7,Studies,Studies/work,During exams,Listen's Music,"Stressed, Happy, Boring",Yes
+25-08-2022 20:42,Male,19,BSC ,Yes,Interested,4,7,Yes,8,Yes,7,Other  ( Series/Movies ),Nothing ,About Love,Listen's Music,Depressed,No
+25-08-2022 20:43,Female,19,CSE,Yes,Interested,4,8.71,No,8,No,7,Social Media,Studies/work,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 20:43,Female,19,CSE,Yes,Future scope,4,9.13,Yes,8,No,5,Social Media,Thinking about future,During exams,Sharing feelings with someone,"Happy, Boring",Yes
+25-08-2022 20:44,Male,19,CSE,Yes,Interested,3,8.22,Yes,7,Yes,3,Other  ( Series/Movies ),Thinking about future,About Food,Travelling,Happy,Yes
+25-08-2022 20:44,Female,19,CSE,Yes,Interested,4,8.41,No,6,No,7,Social Media,Thinking about future,No sleep,Listen's Music,Happy,Yes
+25-08-2022 20:44,Female,19,CSE,Yes,Interested,3,8.37,Yes,7,No,5,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 20:44,Male,19,CSE,Yes,Future scope,4,7.52,No,7,No,5,Social Media,Thinking about future,About Love,Being calm or Being alone,Happy,No
+25-08-2022 20:44,Male,18,CSE ,No,All are choosing so I also chosen,4,8.2,Yes,10,No,7,Social Media,Thinking about future,About Money,Being calm or Being alone,Depressed,No
+25-08-2022 20:45,Male,18,IT,No,Future scope,2,9.065,Yes,8,Yes,5,Studies,Family,About Money,Being calm or Being alone,Boring,No
+25-08-2022 20:45,Female,18,CSE,Yes,Future scope,3,8.02,Yes,8,No,6,Social Media,Family,During exams,Listen's Music,"Depressed, Stressed, Boring",No
+25-08-2022 20:46,Female,18,CSE,Yes,Interested,3,7.5,Yes,8,Yes,6,Other  ( Series/Movies ),Thinking about future,Threaten,Sharing feelings with someone,Happy,No
+25-08-2022 20:46,Female,18,FOODTECH,Yes,Future scope,3,7.31,Yes,5,Yes,8,Social Media,Thinking about future,During exams,Drawing ,Boring,No
+25-08-2022 20:46,Female,18,IT,Yes,Interested,2,9.17,Yes,8,No,5,Other  ( Series/Movies ),Studies/work,About Money,Listen's Music,Happy,Yes
+25-08-2022 20:46,Female,18,CSE,Yes,Interested,2,7.85,Yes,6,Yes,7,Studies,Thinking about future,During exams,Being calm or Being alone,Boring,No
+25-08-2022 20:47,Male,18,CSE,Yes,All are choosing so I also chosen,3,7.3,No,9,Yes,10,Studies,Family,About Love,Travelling,Happy,Yes
+25-08-2022 20:47,Male,18,CSE,No,Due to Family pressure,3,7.64,No,4,No,10,Social Media,Thinking about future,About Money,Travelling,Happy,No
+25-08-2022 20:47,Female,18,CSE,No,Due to Family pressure,4,9.08,Yes,10,No,5,Social Media,No stress,No sleep,Sleeping,Happy,Yes
+25-08-2022 20:47,Female,18,CSE,No,Interested,3,9,No,4,No,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 20:49,Female,18,CSE,Yes,Interested,2,8.7,No,5,No,5,Other  ( Series/Movies ),Studies/work,Threaten,Listen's Music,Boring,No
+25-08-2022 20:51,Male,18,CSE,Yes,Interested,4,8,Yes,7,No,4,Social Media,Thinking about future,About Money,Listen's Music,Happy,No
+25-08-2022 20:51,Female,18,BARCH,Yes,Interested,3,8.48,No,6,No,5,Social Media,Studies/work,No sleep,Sharing feelings with someone,Boring,Yes
+25-08-2022 20:51,Male,18,MECH,Yes,Interested,2,7,No,6,Yes,10,Social Media,Love,About Love,Being calm or Being alone,Boring,No
+25-08-2022 20:52,Male,18,IT,No,All are choosing so I also chosen,2,8.94,No,5,No,5,Social Media,Balancing my work n sleep,About Food,Listen's Music,Boring,No
+25-08-2022 20:52,Female,18,CSE,Yes,Interested,3,7.8,Yes,4,Yes,5,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Happy,No
+25-08-2022 20:53,Female,18,FOODTECH,Yes,Future scope,3,9.04,Yes,8,Yes,8,Other  ( Series/Movies ),Thinking about future,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 20:54,Female,17,CSE,Yes,Future scope,2,9.1,Yes,8,Yes,5,Studies,Studies/work,During exams,Meditation,Boring,No
+25-08-2022 20:54,Female,17,EEE,No,Due to Family pressure,4,6.75,Yes,6,Yes,7,Other  ( Series/Movies ),Health,Threaten,Listen's Music,"Stressed, Boring",No
+25-08-2022 20:54,Male,21,CSE,Yes,Interested,3,8.19,Yes,8,Yes,5,Studies,Studies/work,About Faculty,Listen's Music,Happy,Yes
+25-08-2022 20:54,Male,21,CSE,Yes,Interested,2,8.5,Yes,8,Yes,4,Other  ( Series/Movies ),Friends ,About Love,Sharing feelings with someone,"Happy, Boring",No
+25-08-2022 20:54,Female,21,BSC ,Yes,Interested,3,9,No,3,No,4,Social Media,Thinking about future,About Money,Listen's Music,Boring,No
+25-08-2022 20:55,Male,21,CSE,Yes,Interested,3,6.2,Yes,8,Yes,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,Yes
+25-08-2022 20:55,Male,21,CSE,Yes,Due to Family pressure,3,7,No,2,No,3,Other  ( Series/Movies ),Studies/work,About Faculty,Listen's Music,Happy,No
+25-08-2022 20:55,Male,21,CSE,No,Interested,3,8.7,Yes,5,No,5,Other  ( Series/Movies ),Thinking about future,During exams,Meditation,Happy,No
+25-08-2022 20:55,Male,21,CSE,Yes,Interested,3,8,Yes,7,Yes,5,Studies,Thinking about future,During exams,Being calm or Being alone,"Depressed, Stressed, Boring",No
+25-08-2022 20:56,Female,21,CSE,No,All are choosing so I also chosen,2,0,No,5,No,2,Other  ( Series/Movies ),Thinking about future,During exams,I just wanna sleep peacefully ,Boring,No
+25-08-2022 20:56,Female,21,CSE,Yes,Interested,3,9,Yes,8,Yes,5,Other  ( Series/Movies ),Thinking about future,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 20:56,Male,21,CSE,No,Interested,3,8.116,Yes,5,No,4,Social Media,Studies/work,About Faculty,Listen's Music,Boring,No
+25-08-2022 20:56,Female,19,BBA,Yes,Interested,2,7.13,Yes,8,Yes,10,Other  ( Series/Movies ),Thinking about future,During exams,Sharing feelings with some one and travelling ,Boring,Yes
+25-08-2022 20:56,Female,19,ECE,Yes,Future scope,3,8.2,Yes,6,No,4,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 20:57,Female,19,CSE,Yes,Future scope,3,9,Yes,10,No,5,Social Media,Studies/work,About Faculty,Listen's Music,Boring,No
+25-08-2022 20:57,Female,19,CSE,Yes,Future scope,3,7.8,Yes,9,No,5,Social Media,Studies/work,About Faculty,Sleeping,Boring,No
+25-08-2022 20:57,Male,19,CSE,Yes,Interested,3,8.37,Yes,8,Yes,2,Studies,Studies/work,During exams,Sharing feelings with someone,Boring,Yes
+25-08-2022 20:57,Male,19,CSE,Yes,Interested,3,8.6,Yes,10,Yes,10,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 20:57,Male,19,CSE,No,All are choosing so I also chosen,3,9,No,5,No,10,Social Media,PROVIDE ELECTIVES IN OUR COLLEGE NOT IN NPTEL .......MY HUMBLE REQUEST,About Faculty,PLAY CRICKET,"Happy, Boring",No
+25-08-2022 20:57,Female,19,CSE,Yes,Interested,3,8.82,Yes,9,Yes,5,Social Media,Studies/work,During exams,Listen's Music,"Depressed, Stressed, Happy, Boring",Yes
+25-08-2022 20:58,Female,19,IT,Yes,Future scope,2,8,No,6,Yes,4,Video games,Thinking about future,About Money,Being calm or Being alone,Stressed,No
+25-08-2022 20:58,Female,19,FOODTECH,Yes,Interested,3,8.43,Yes,6,No,3,Other  ( Series/Movies ),Studies/work,About Food,Being calm or Being alone,Happy,No
+25-08-2022 20:58,Female,19,CSE,Yes,Future scope,3,8.23,No,7,No,4,Social Media,Studies/work,No sleep,Being calm or Being alone,Stressed,No
+25-08-2022 20:59,Female,19,CSE,Yes,Interested,2,8.68,No,4,No,5,Studies,Studies/work,About Food,Being calm or Being alone,Boring,No
+25-08-2022 21:00,Male,19,CSE,Yes,Future scope,3,8.23,Yes,8,Yes,6,Other  ( Series/Movies ),Thinking about future,About Money,Being calm or Being alone,"Depressed, Boring",Yes
+25-08-2022 21:00,Male,19,CSE,No,Future scope,3,8.9,Yes,8,Yes,2,Social Media,Thinking about future,During exams,Being calm or Being alone,Happy,No
+25-08-2022 21:00,Female,19,CSE,Yes,Future scope,2,8,No,7,No,4,Other  ( Series/Movies ),Studies/work,About Faculty,Sharing feelings with someone,Boring,Yes
+25-08-2022 21:00,Male,19,CSE,Yes,Interested,3,8,No,4,No,3,Other  ( Series/Movies ),Thinking about future,No sleep,Being calm or Being alone,Boring,Yes
+25-08-2022 21:01,Male,19,CSE,Yes,Interested,3,8.1,No,3,No,10,Social Media,Studies/work,During exams,Anime,Happy,Yes
+25-08-2022 21:01,Male,18,CSE,No,Interested,3,7.87,No,8,No,4,Social Media,Health,About Food,Listen's Music,Happy,No
+25-08-2022 21:01,Male,18,CSE,Yes,Future scope,3,7.5,Yes,8,No,2,Social Media,Family,About Money,Listen's Music,Boring,No
+25-08-2022 21:01,Male,18,CSE,Yes,Future scope,3,8.13,No,3,No,2,Social Media,Studies/work,About Money,Listen's Music,"Happy, Boring",No
+25-08-2022 21:01,Female,18,FOODTECH,Yes,Interested,3,8.8,Yes,3,Yes,4,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:02,Male,18,CSE,Yes,Interested,3,7.8,Yes,7,No,5,Social Media,Thinking about future,Threaten,Travelling,Stressed,No
+25-08-2022 21:02,Female,18,CSE,Yes,Interested,2,8,Yes,8,No,3,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:03,Female,18,CSE,No,All are choosing so I also chosen,2,9.09,No,4,No,5,Other  ( Series/Movies ),Studies/work,During exams,Being calm or Being alone,Boring,No
+25-08-2022 21:03,Male,18,CSE,Yes,Interested,3,7.8,Yes,7,Yes,2,Studies,Studies/work,During exams,Listen's Music,Boring,Yes
+25-08-2022 21:03,Male,18,CSE,Yes,Interested,3,7.9,Yes,7,No,5,Social Media,Thinking about future,About Money,Travelling,Boring,Yes
+25-08-2022 21:03,Female,18,CSE,Yes,Interested,3,7.67,Yes,7,Yes,4,Other  ( Series/Movies ),Health,No sleep,Sleeping,Happy,No
+25-08-2022 21:04,Female,18,CSE,Yes,Future scope,2,8,No,3,No,8,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:04,Male,18,CSE,Yes,Interested,3,7.83,Yes,2,No,7,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:04,Female,18,BIOTECH,Yes,Interested,3,8,Yes,6,Yes,2,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:04,Female,18,CSE,Yes,Interested,3,7,Yes,6,Yes,5,Social Media,Thinking about future,About Money,Listen's Music,Depressed,No
+25-08-2022 21:04,Female,18,BIOTECH,No,Due to Family pressure,3,7.22,Yes,5,No,8,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:04,Male,18,CSE,Yes,Due to Family pressure,3,7.5,Yes,9,Yes,5,Studies,None,About Love,Travelling,Happy,Yes
+25-08-2022 21:05,Male,18,IT,No,All are choosing so I also chosen,4,8,Yes,6,No,10,Studies,Thinking about future,About Money,Being calm or Being alone,"Stressed, Happy, Boring",No
+25-08-2022 21:05,Female,18,BIOTECH,Yes,Interested,3,7.58,Yes,7,Yes,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:05,Male,18,CSE,No,Future scope,2,8,No,8,No,4,Social Media,Health,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 21:05,Male,18,CSE,Yes,Future scope,3,9,Yes,8,No,10,Social Media,Thinking about future,About Food,Being calm or Being alone,"Happy, Boring",No
+25-08-2022 21:05,Female,19,CSE,Yes,Future scope,2,8,No,5,No,4,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:05,Male,19,CSE,Yes,Future scope,3,9.11,No,5,No,5,Other  ( Series/Movies ),Hostel life ,No sleep,Listen's Music,Happy,No
+25-08-2022 21:06,Male,19,BIOTECH,No,Future scope,3,7.56,Yes,8,No,5,Other  ( Series/Movies ),Studies/work,About Faculty,Doing any physical activity,"Happy, Boring",No
+25-08-2022 21:06,Male,19,CSE,Yes,Future scope,3,8.84,No,7,No,7,Studies,Thinking about future,About Faculty,Doing any physical activity,"Happy, Boring",No
+25-08-2022 21:06,Female,19,CSE,Yes,Interested,3,8.23,No,4,Yes,4,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Stressed,No
+25-08-2022 21:06,Female,19,BIOTECH,Yes,Interested,3,7.93,No,4,No,3,Social Media,Studies/work,During exams,Listen's Music,"Depressed, Stressed, Happy",No
+25-08-2022 21:06,Male,19,CSE,Yes,Interested,3,7.98,No,4,No,2,Other  ( Series/Movies ),Health,About Money,Being calm or Being alone,Depressed,No
+25-08-2022 21:06,Male,19,CSE,Yes,Future scope,2,0,Yes,8,Yes,2,Social Media,Thinking about future,About Money,Listen's Music,Boring,Yes
+25-08-2022 21:07,Female,19,BIOTECH,Yes,Future scope,3,8,Yes,9,No,2,Other  ( Series/Movies ),Thinking about future,During exams,Being calm or Being alone,Depressed,No
+25-08-2022 21:07,Male,19,CSE,Yes,Due to Family pressure,3,7.89,Yes,8,No,5,Social Media,Thinking about future,About Money,Listen's Music,Happy,No
+25-08-2022 21:08,Female,19,CSE,Yes,Future scope,3,7.68,Yes,8,No,4,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,"Depressed, Stressed, Boring",No
+25-08-2022 21:09,Female,19,CSE,No,Future scope,3,8.51,Yes,5,No,4,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:09,Female,19,IT,No,Future scope,2,8.94,No,8,No,5,Social Media,All of the above,About Money,Sharing feelings with someone,Depressed,No
+25-08-2022 21:10,Female,19,CSE,Yes,Interested,3,7.6,No,5,Yes,10,Other  ( Series/Movies ),Studies/work,No sleep,Meditation,Happy,No
+25-08-2022 21:10,Male,19,CSE,Yes,All are choosing so I also chosen,3,7.5,Yes,5,Yes,4,Social Media,Thinking about future,About Love,Doing any physical activity,Happy,No
+25-08-2022 21:11,Male,19,CSE,No,Future scope,2,8.26,No,8,No,5,Studies,Studies/work,During exams,Listen's Music,Stressed,No
+25-08-2022 21:11,Male,19,CSE,No,Interested,3,6.19,No,8,No,5,Other  ( Series/Movies ),Family,About Money,Being calm or Being alone,Happy,Yes
+25-08-2022 21:11,Male,19,CSE,Yes,Future scope,3,8.53,Yes,9,Yes,4,Social Media,Family,About Money,Listen's Music,"Depressed, Stressed",No
+25-08-2022 21:11,Male,19,CSE,Yes,Future scope,3,0,No,8,No,8,Other  ( Series/Movies ),Studies/work,During exams,Travelling,Stressed,No
+25-08-2022 21:11,Female,19,CSE,Yes,Future scope,3,8,Yes,7,Yes,4,Social Media,Thinking about future,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 21:12,Male,17,CSE,Yes,Interested,3,8.21,Yes,7,No,4,Social Media,Thinking about future,During exams,Listen's Music,"Stressed, Boring",No
+25-08-2022 21:13,Male,20,CSE,Yes,Interested,3,7.79,Yes,4,No,5,Other  ( Series/Movies ),Thinking about future,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 21:13,Female,20,CSE,Yes,Future scope,3,7.05,Yes,7,Yes,4,Studies,Studies/work,During exams,Listen's Music,"Depressed, Stressed, Boring",Yes
+25-08-2022 21:13,Male,20,CSE,Yes,Future scope,3,8.29,Yes,6,No,2,Social Media,Thinking about future,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 21:14,Male,20,CSE,Yes,Interested,2,8.02,Yes,6,No,4,Social Media,Studies/work,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 21:14,Female,20,CSE,Yes,Interested,3,8.01,No,7,No,7,Social Media,Family,About Food,Being calm or Being alone,Happy,No
+25-08-2022 21:14,Male,20,CSE,No,Future scope,3,8.21,Yes,4,No,8,Other  ( Series/Movies ),Thinking about future,During exams,Sharing feelings with someone,Depressed,No
+25-08-2022 21:14,Female,20,CSE,Yes,Future scope,2,8.2,No,8,No,5,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:15,Male,20,CSE,Yes,Future scope,3,9,Yes,10,Yes,5,Social Media,Thinking about future,About Money,Doing any physical activity,Boring,No
+25-08-2022 21:15,Male,20,IT,Yes,Interested,2,6.09,Yes,5,Yes,3,Social Media,Family,During exams,Listen's Music,Boring,Yes
+25-08-2022 21:16,Female,20,CSE,No,Future scope,3,8.48,No,5,No,4,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:16,Male,20,EEE,Yes,Future scope,4,7.9,Yes,8,No,5,Video games,Health,About Food,Being calm or Being alone,Happy,Yes
+25-08-2022 21:17,Female,20,CSE,Yes,Interested,2,9.16,Yes,4,No,4,Studies,Health,About Food,Listening music n being alone ,Boring,Yes
+25-08-2022 21:17,Male,20,CSE,Yes,Interested,2,7.04,Yes,4,Yes,5,Other  ( Series/Movies ),Thinking about future,About Love,Listen's Music,Boring,Yes
+25-08-2022 21:17,Female,20,CSE,No,Interested,2,9.25,No,5,No,8,Studies,Studies/work,About Faculty,Sharing feelings with someone,Depressed,No
+25-08-2022 21:17,Male,20,CSE ,Yes,Interested,3,7.01,No,8,Yes,5,Social Media,All ,About Money,Sharing feelings with someone,Boring,No
+25-08-2022 21:18,Female,20,CSE,Yes,Future scope,3,7,Yes,7,No,4,Social Media,Thinking about future,During exams,Listen's Music,Happy,Yes
+25-08-2022 21:18,Male,20,CSE,No,Due to Family pressure,2,8,No,4,No,8,Social Media,Thinking about future,About Love,Doing any physical activity,Depressed,No
+25-08-2022 21:18,Male,20,CSE,Yes,Future scope,3,8.2,Yes,7,Yes,8,Studies,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:18,Male,20,CSE,Yes,Interested,2,8.75,Yes,9,No,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:18,Female,20,CSE,Yes,Future scope,3,8.4,Yes,5,Yes,8,Social Media,Thinking about future,During exams,Sharing feelings with someone,"Stressed, Boring",No
+25-08-2022 21:19,Female,20,CSE,No,Future scope,2,9,Yes,5,No,2,Studies,Thinking about future,About Money,Listen's Music,Boring,Yes
+25-08-2022 21:19,Female,20,CSE,Yes,Future scope,2,8.7,No,7,No,3,Other  ( Series/Movies ),Studies/work,About Money,Travelling,Boring,No
+25-08-2022 21:20,Female,20,CSE,Yes,Interested,3,8.05,Yes,7,Yes,2,Other  ( Series/Movies ),Family,About Faculty,Listen's Music,Stressed,Yes
+25-08-2022 21:20,Female,16,CSE,No,Due to Family pressure,2,9,No,8,No,4,Social Media,Studies/work,About Faculty,Travelling,Happy,No
+25-08-2022 21:20,Female,22,CSE,Yes,Interested,4,8.3,Yes,10,No,8,Other  ( Series/Movies ),Thinking about future,About Money,Being calm or Being alone,Boring,No
+25-08-2022 21:21,Male,20,CSE,Yes,Future scope,2,7.82,Yes,6,No,2,Studies,Studies/work,During exams,Travelling,Boring,No
+25-08-2022 21:21,Male,20,CSE,Yes,Interested,2,8,Yes,7,No,2,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Boring,Yes
+25-08-2022 21:21,Male,20,CSE,Yes,Interested,3,9,No,8,No,3,Social Media,Family,About Faculty,Being calm or Being alone,"Happy, Boring",Yes
+25-08-2022 21:21,Female,20,CSE,Yes,Future scope,2,9.1,Yes,8,No,6,Studies,Health,About Money,Being calm or Being alone,"Depressed, Boring",No
+25-08-2022 21:21,Female,20,CSE,Yes,Interested,2,8.5,No,8,No,6,Studies,Studies/work,About Money,Sharing feelings with someone,Stressed,No
+25-08-2022 21:21,Male,20,CSE,Yes,All are choosing so I also chosen,2,9,Yes,8,No,4,Other  ( Series/Movies ),Studies/work,About Food,Being calm or Being alone,Happy,No
+25-08-2022 21:22,Male,20,CSE,Yes,Interested,3,8.44,Yes,8,Yes,10,Video games,Studies/work,During exams,Sharing feelings with someone,Stressed,No
+25-08-2022 21:22,Male,20,CSE,Yes,Future scope,2,9.01,No,8,No,3,Studies,Studies/work,About Faculty,Travelling,"Depressed, Happy, Boring",No
+25-08-2022 21:22,Female,20,CSE,Yes,Future scope,2,9.11,No,8,No,6,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:22,Female,20,CSE,Yes,Future scope,3,8.62,Yes,8,No,4,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:23,Female,20,BIOTECH,Yes,Interested,3,7.55,No,8,No,6,Other  ( Series/Movies ),Thinking about future,About Food,Sharing feelings with someone,Boring,No
+25-08-2022 21:23,Male,20,CSE,No,All are choosing so I also chosen,2,7,No,8,No,8,Social Media,Studies/work,About Money,Sharing feelings with someone,Boring,No
+25-08-2022 21:23,Male,20,CSE,Yes,Due to Family pressure,3,8.02,No,8,No,10,Studies,Studies/work,During exams,Listen's Music,Happy,No
+25-08-2022 21:23,Female,20,CSE,Yes,Future scope,3,0,No,8,Yes,2,Social Media,Thinking about future,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 21:23,Female,20,CSE,Yes,Interested,3,7.7,Yes,8,Yes,3,Studies,Health,No sleep,Listen's Music,Boring,Yes
+25-08-2022 21:23,Male,20,CSE,Yes,Future scope,2,8,Yes,8,No,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:23,Male,20,CSE,No,Interested,3,7,No,8,No,4,Studies,Studies/work,About Faculty,Listen's Music,Happy,No
+25-08-2022 21:24,Female,20,CSE,Yes,Due to Family pressure,2,8.87,No,8,No,2,Studies,Thinking about future,About Money,Meditation,Boring,No
+25-08-2022 21:24,Male,20,CSE ,Yes,Future scope,3,7.93,Yes,8,Yes,5,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:24,Female,20,CSE,Yes,Future scope,2,8.39,Yes,8,No,4,Social Media,Health,About Food,Listen's Music,Happy,No
+25-08-2022 21:24,Female,20,CSE,Yes,Future scope,3,7.2,Yes,8,Yes,5,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:25,Male,17,CSE,Yes,Interested,2,9.1,Yes,5,Yes,8,Social Media,Thinking about future,About Love,Listen's Music,Stressed,No
+25-08-2022 21:25,Female,19,CSE,Yes,Future scope,2,8,No,5,No,2,Studies,Studies/work,About Faculty,Travelling,Happy,No
+25-08-2022 21:25,Male,19,CSE ,No,Future scope,3,7.56,Yes,5,No,8,Other  ( Series/Movies ),Thinking about future,About Faculty,Listen's Music,Happy,No
+25-08-2022 21:25,Female,19,CSE,Yes,Due to Family pressure,3,7.02,Yes,5,Yes,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:25,Male,19,CIVIL ,Yes,Due to Family pressure,3,8,No,5,Yes,4,Social Media,Thinking about future,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 21:26,Male,19,CSE,No,Due to Family pressure,3,8.3,No,5,No,5,Social Media,Thinking about future,About Love,Sharing feelings with someone,Boring,No
+25-08-2022 21:26,Male,19,CSE,Yes,Future scope,2,7.4,No,5,No,5,Social Media,Studies/work,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 21:26,Male,19,CSE,Yes,Future scope,3,7.89,No,5,No,10,Other  ( Series/Movies ),Thinking about future,No sleep,Sharing feelings with someone,Boring,Yes
+25-08-2022 21:26,Female,19,CSE,Yes,Future scope,3,7.13,No,5,No,4,Other  ( Series/Movies ),Thinking about future,No sleep,Sharing feelings with someone,Boring,No
+25-08-2022 21:27,Male,19,CSE,No,All are choosing so I also chosen,3,0,No,5,No,10,Video games,Thinking about future,About Faculty,Travelling,Boring,No
+25-08-2022 21:28,Female,19,CSE,Yes,Future scope,2,8.68,No,5,No,5,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:28,Female,19,CSE,Yes,Future scope,2,7.78,Yes,5,No,4,Studies,Tasty food is not there,About Food,Listen's Music,Boring,No
+25-08-2022 21:28,Female,19,CSE,Yes,Future scope,2,8.09,No,5,No,4,Studies,Tasty food is not there ,About Food,Listen's Music,Boring,No
+25-08-2022 21:29,Female,19,CSE,Yes,Interested,3,8.7,Yes,5,No,8,Other  ( Series/Movies ),Health,Threaten,Listen's Music,Boring,Yes
+25-08-2022 21:29,Male,19,CSE,Yes,Future scope,2,8.5,Yes,5,Yes,5,Studies,Studies/work,During exams,Listen's Music,Happy,No
+25-08-2022 21:29,Female,19,CSE,No,Due to Family pressure,3,8.56,No,5,No,4,Social Media,Studies/work,During exams,Listen's Music,Depressed,No
+25-08-2022 21:29,Female,19,CSE,Yes,Future scope,2,0,No,5,No,9,Studies,Thinking about future,About Money,Listen's Music,"Happy, Boring",No
+25-08-2022 21:29,Female,19,CSE,Yes,Interested,2,8.2,Yes,8,No,5,Social Media,Thinking about future,During exams,Being calm or Being alone,Depressed,Yes
+25-08-2022 21:29,Male,19,CSE,Yes,Future scope,3,8.3,No,8,No,4,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:29,Male,19,CSE,Yes,Interested,3,8.57,No,6,No,4,Studies,Thinking about future,About Money,Listen's Music,"Depressed, Stressed, Boring",Yes
+25-08-2022 21:30,Male,19,CSE,Yes,Interested,3,8.1,Yes,8,No,3,Social Media,Thinking about future,During exams,Listen's Music,Happy,No
+25-08-2022 21:30,Female,19,BARCH,Yes,Interested,3,0,No,7,No,5,Social Media,Thinking about future,About Money,Sharing feelings with someone,Boring,No
+25-08-2022 21:30,Female,19,CSE,Yes,Future scope,3,8,Yes,7,Yes,6,Other  ( Series/Movies ),Thinking about future,About Money,Listen's Music,Stressed,No
+25-08-2022 21:30,Male,20,CSE,Yes,Interested,3,7.6,Yes,7,Yes,2,Studies,Studies/work,During exams,Doing any physical activity,Boring,No
+25-08-2022 21:30,Male,20,FOODTECH,Yes,Future scope,3,7,No,4,Yes,6,Video games,Studies/work,No sleep,Doing any physical activity,Boring,Yes
+25-08-2022 21:30,Male,20,CSE,Yes,Future scope,3,7.4,No,4,No,5,Studies,Studies/work,About Money,Listen's Music,Depressed,No
+25-08-2022 21:31,Male,20,CSE,Yes,Interested,2,9,Yes,8,No,2,Studies,Studies/work,About Faculty,Listen's Music,"Stressed, Boring",Yes
+25-08-2022 21:31,Female,20,CSE,Yes,Interested,3,8.99,Yes,7,Yes,2,Other  ( Series/Movies ),Thinking about future,During exams,Sharing feelings with someone,"Happy, Boring",Yes
+25-08-2022 21:31,Male,20,IT,No,Future scope,2,7.75,No,7,No,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:32,Male,20,CSE ,Yes,Due to Family pressure,3,8.45,Yes,7,No,4,Social Media,Thinking about future,About Food,Listen's Music,"Depressed, Boring",Yes
+25-08-2022 21:32,Female,20,CSE,Yes,Future scope,3,9.64,Yes,7,No,6,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:33,Male,20,CSE,Yes,All are choosing so I also chosen,3,8,No,7,No,2,Other  ( Series/Movies ),Thinking about future,No sleep,Listen's Music,Boring,No
+25-08-2022 21:33,Male,20,CSE,No,Interested,2,7,No,7,No,2,Studies,Studies/work,About Faculty,Being calm or Being alone,Happy,Yes
+25-08-2022 21:33,Female,20,FOODTECH,Yes,Interested,3,7.74,Yes,7,Yes,5,Social Media,Thinking about future,During exams,Sharing feelings with someone,"Happy, Boring",Yes
+25-08-2022 21:33,Male,20,CSE,Yes,Future scope,2,8.16,Yes,7,No,4,Studies,Studies/work,About Faculty,Travelling,Boring,Yes
+25-08-2022 21:33,Male,20,CSE ,No,Future scope,3,7.8,No,7,No,6,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:33,Female,20,CSE,No,Due to Family pressure,2,6.78,No,7,No,6,Studies,Family and studies,During exams,Listen's Music,Boring,No
+25-08-2022 21:33,Male,20,CSE,Yes,Future scope,2,8.2,Yes,7,Yes,8,Other  ( Series/Movies ),Studies/work,During exams,Being calm or Being alone,Boring,Yes
+25-08-2022 21:34,Female,20,FOODTECH,Yes,Future scope,3,9.17,Yes,7,Yes,2,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:35,Female,20,CSE,Yes,Interested,3,8.78,Yes,7,Yes,2,Social Media,Thinking about future,During exams,Sharing feelings with someone,"Stressed, Happy",No
+25-08-2022 21:35,Male,20,FOODTECH,Yes,Interested,3,8.1,Yes,7,No,5,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:35,Female,18,IT,Yes,Due to Family pressure,2,6.44,No,4,No,2,Studies,Studies/work,During exams,Listen's Music,Depressed,No
+25-08-2022 21:35,Female,18,CSE,No,Future scope,3,8.11,No,4,No,5,Studies,Thinking about future,About Faculty,Listen's Music,Boring,Yes
+25-08-2022 21:35,Male,18,CSE,Yes,Interested,2,0,No,4,No,7,Studies,Studies/work,During exams,Being calm or Being alone,Happy,No
+25-08-2022 21:37,Female,18,CSE,Yes,Future scope,2,0,Yes,4,No,10,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 21:37,Male,18,CSE,Yes,Interested,3,8.23,Yes,8,No,5,Social Media,Thinking about future,During exams,Being calm or Being alone,Happy,No
+25-08-2022 21:37,Female,18,CSE,Yes,Due to Family pressure,2,8,Yes,8,No,2,Studies,Thinking about future,During exams,Travelling,Happy,No
+25-08-2022 21:38,Female,18,CSE,No,Future scope,2,8,No,8,No,2,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:38,Male,18,CSE,Yes,Interested,3,8.2,No,5,No,2,Other  ( Series/Movies ),Thinking about future,During exams,Doing any physical activity,Happy,No
+25-08-2022 21:39,Male,18,CSE,Yes,Future scope,3,7.31,Yes,7,No,6,Social Media,Studies/work,During exams,Listen's Music,Stressed,No
+25-08-2022 21:39,Female,18,CSE,Yes,Due to Family pressure,2,8,No,7,No,2,Studies,Thinking about future,During exams,Travelling,"Happy, Boring",No
+25-08-2022 21:39,Male,18,FOODTECH,Yes,Interested,3,6.5,No,5,No,5,Video games,Studies/work,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 21:40,Male,18,CSE,Yes,Interested,3,7.83,No,4,No,8,Other  ( Series/Movies ),Stress ,About Love,Sharing feelings with someone,Happy,Yes
+25-08-2022 21:40,Male,18,CSE,Yes,Interested,2,8.3,Yes,10,No,5,Social Media,Thinking about future,About Money,Travelling,Depressed,No
+25-08-2022 21:40,Male,18,CSE,Yes,Future scope,2,7,Yes,8,Yes,3,Social Media,Thinking about future,During exams,Listen's Music,Stressed,Yes
+25-08-2022 21:40,Male,18,CSE,No,Interested,3,8.9,Yes,7,No,5,Studies,Thinking about future,About Money,Listen's Music,Boring,No
+25-08-2022 21:41,Male,18,CSE,Yes,Interested,2,8.14,Yes,7,No,5,Studies,Studies/work,About Faculty,Doing any physical activity,Boring,Yes
+25-08-2022 21:41,Male,18,CSE,Yes,Interested,2,8.02,Yes,7,No,4,Studies,Studies/work,About Faculty,Doing any physical activity,Boring,Yes
+25-08-2022 21:42,Female,18,CSE ,Yes,Future scope,2,7.98,Yes,7,No,5,Social Media,Health,About Food,Listen's Music,Happy,No
+25-08-2022 21:42,Male,21,CSE,Yes,Interested,3,8.7,No,5,No,3,Social Media,Thinking about future,About Love,Listen's Music,Depressed,No
+25-08-2022 21:43,Male,20,CSE,No,Interested,3,0,No,5,No,2,Studies,Studies/work,No sleep,Being calm or Being alone,Happy,No
+25-08-2022 21:43,Female,20,CSE,Yes,Interested,1,0,No,5,No,5,Other  ( Series/Movies ),Studies/work,No sleep,Listen's Music,Boring,Yes
+25-08-2022 21:44,Male,20,IT,Yes,Future scope,2,9,No,5,Yes,10,Social Media,Family,During exams,Travelling,Boring,No
+25-08-2022 21:45,Male,20,CSE ,Yes,Future scope,2,8.7,No,5,No,8,Social Media,Thinking about future,About Money,Listen's Music,Boring,No
+25-08-2022 21:45,Female,20,CSE ,Yes,Interested,3,8.8,Yes,6,Yes,5,Other  ( Series/Movies ),Studies/work,During exams,Meditation,Boring,No
+25-08-2022 21:46,Male,20,CSE,Yes,Interested,2,7.59,Yes,6,Yes,4,Social Media,Studies/work,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 21:47,Male,20,CSE,Yes,Future scope,2,8.2,Yes,6,No,6,Studies,Thinking about future,About Food,Being calm or Being alone,Boring,Yes
+25-08-2022 21:47,Male,20,CSE,Yes,Interested,3,7.63,Yes,6,Yes,4,Other  ( Series/Movies ),Family,About Money,Listen's Music,"Depressed, Stressed, Boring",Yes
+25-08-2022 21:47,Female,20,BCA,Yes,Interested,3,8,Yes,6,Yes,3,Social Media,Health,No sleep,Listen's Music,"Happy, Boring",No
+25-08-2022 21:48,Male,20,MECH,Yes,Interested,2,8.6,Yes,4,Yes,10,Other  ( Series/Movies ),Thinking about future,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 21:49,Male,20,CSE,Yes,Interested,2,0,Yes,4,No,5,Video games,Studies/work,About Love,Sharing feelings with someone,Boring,No
+25-08-2022 21:49,Male,20,CSE,Yes,Interested,2,7,No,4,No,4,Studies,Studies/work,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 21:49,Female,20,CSE,Yes,Future scope,2,9.18,Yes,4,Yes,6,Social Media,Studies/work,During exams,Listen's Music,Boring,Yes
+25-08-2022 21:50,Male,18,CSE,Yes,Future scope,2,9,No,4,No,3,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:50,Male,18,CSE,Yes,Future scope,2,8,No,4,No,6,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 21:50,Female,18,CSE,No,Interested,2,8,Yes,8,No,3,Other  ( Series/Movies ),Studies/work,About Food,Watching something funny,Happy,No
+25-08-2022 21:50,Female,18,CSE,Yes,Future scope,3,8.25,No,8,Yes,4,Studies,Thinking about future,About Money,Listen's Music,Boring,No
+25-08-2022 21:51,Male,18,CSE,Yes,Interested,2,0,No,5,Yes,5,Studies,Thinking about future,During exams,Doing any physical activity,Happy,No
+25-08-2022 21:51,Female,18,CSE,No,All are choosing so I also chosen,2,9,No,5,No,6,Other  ( Series/Movies ),Studies/work,No sleep,Sharing feelings with someone,Boring,No
+25-08-2022 21:51,Female,18,CSE,Yes,Interested,2,8,No,5,No,4,Other  ( Series/Movies ),Studies/work,No sleep,Listen's Music,"Depressed, Stressed, Happy, Boring",No
+25-08-2022 21:52,Female,18,CSE,Yes,Future scope,2,7,No,5,No,5,Other  ( Series/Movies ),Studies/work,No sleep,Listen's Music,"Depressed, Stressed, Happy, Boring",No
+25-08-2022 21:52,Female,18,CSE,No,Future scope,2,9.36,No,5,No,4,Studies,Studies/work,No sleep,Listen's Music,"Stressed, Boring",No
+25-08-2022 21:53,Male,18,CSE,Yes,Interested,3,6.92,No,5,No,5,Studies,Studies/work,During exams,Listen's Music,Boring,Yes
+25-08-2022 21:53,Male,18,CSE,Yes,Interested,2,0,No,7,No,4,Studies,Studies/work,About Faculty,Being calm or Being alone,"Depressed, Stressed, Happy, Boring",No
+25-08-2022 21:53,Male,18,CSE,Yes,Interested,2,0,No,4,No,10,Studies,Studies/work,During exams,Sharing feelings with someone,Depressed,No
+25-08-2022 21:54,Female,18,CSE,Yes,Future scope,2,9,No,4,No,7,Other  ( Series/Movies ),Studies/work,No sleep,Being calm or Being alone,"Depressed, Stressed, Happy, Boring",No
+25-08-2022 21:54,Female,18,CSE,No,Future scope,2,6.67,No,4,No,8,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,"Depressed, Stressed, Happy, Boring",No
+25-08-2022 21:55,Male,18,CSE,Yes,Interested,3,8.49,Yes,4,Yes,5,Social Media,Thinking about future,About Love,Sharing feelings with someone,"Happy, Boring",No
+25-08-2022 21:55,Female,18,CSE,Yes,Interested,3,7.5,No,4,No,8,Other  ( Series/Movies ),Personal life,No sleep,Listen's Music,Stressed,No
+25-08-2022 21:55,Female,18,CSE,Yes,Interested,2,8.6,No,4,Yes,2,Social Media,Thinking about future,About Money,Talking phone call,Happy,No
+25-08-2022 21:55,Female,18,CSE,Yes,Future scope,2,9.26,Yes,6,Yes,2,Social Media,Studies/work,No sleep,Listen's Music,Depressed,No
+25-08-2022 21:56,Male,18,CSE,Yes,Future scope,2,9.03,No,7,No,2,Studies,Thinking about future,About Food,Listen's Music,"Stressed, Boring",No
+25-08-2022 21:56,Male,18,CSE,Yes,Future scope,2,8.1,No,4,No,5,Studies,Studies/work,About Faculty,Sharing feelings with someone,"Stressed, Happy",No
+25-08-2022 21:56,Male,18,CSE,Yes,Interested,2,9.01,No,5,No,2,Social Media,Studies/work,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 21:57,Male,19,CSE,Yes,Interested,2,8.06,No,7,No,5,Video games,Studies/work,During exams,Listen's Music,"Happy, Boring",No
+25-08-2022 21:57,Male,19,CSE,Yes,Future scope,2,8.6,Yes,7,No,2,Social Media,Thinking about future,About Food,Travelling,Boring,No
+25-08-2022 21:57,Female,19,CSE,Yes,Future scope,2,0,No,7,No,2,Social Media,Thinking about future,During exams,Being calm or Being alone,Boring,No
+25-08-2022 21:58,Male,19,CSE,No,Interested,2,0,Yes,7,No,5,Social Media,Thinking about future,About Food,Listen's Music,"Happy, Boring",No
+25-08-2022 21:59,Male,19,CSE,No,Interested,2,9.1,No,7,No,9,Social Media,Thinking about future,About Money,Being calm or Being alone,"Depressed, Stressed, Boring",No
+25-08-2022 21:59,Male,19,CSE,Yes,Interested,2,7.2,Yes,7,No,5,Studies,Studies/work,No sleep,Doing any physical activity,"Stressed, Boring",No
+25-08-2022 21:59,Female,19,CSE,Yes,Interested,4,8.5,Yes,7,Yes,8,Studies,Studies/work,About Money,Listen's Music,Boring,No
+25-08-2022 22:00,Male,19,CSE,No,Future scope,2,8.5,Yes,7,No,9,Social Media,Studies/work,During exams,Being calm or Being alone,Boring,No
+25-08-2022 22:00,Male,19,CSE,Yes,Interested,3,7.5,No,7,No,2,Studies,Health,No sleep,Doing any physical activity,Boring,No
+25-08-2022 22:01,Male,19,CSE,No,All are choosing so I also chosen,2,9.02,Yes,7,No,5,Social Media,Thinking about future,About Money,Being calm or Being alone,Boring,No
+25-08-2022 22:01,Male,19,CSE,Yes,Due to Family pressure,2,8.46,Yes,7,Yes,2,Social Media,Thinking about future,About Faculty,Being calm or Being alone,"Depressed, Stressed, Happy, Boring",Yes
+25-08-2022 22:01,Male,19,FOODTECH,No,Interested,3,6,No,7,Yes,4,Social Media, Friendship ,About Faculty,Being calm or Being alone,Happy,No
+25-08-2022 22:01,Male,19,B.A,Yes,Interested,3,7.8,Yes,7,No,1,Social Media,Thinking about future,During exams,Listen's Music,Stressed,No
+25-08-2022 22:02,Male,19,CSE ,Yes,Interested,2,7.46,No,7,No,1,Social Media,Money ,About Food,Being calm or Being alone,Boring,Yes
+25-08-2022 22:02,Male,19,CSE ,Yes,Interested,3,8.79,Yes,7,No,4,Studies,Thinking about future,Threaten,Listen's Music,Boring,No
+25-08-2022 22:02,Male,19,CSE,Yes,Due to Family pressure,2,0,No,5,No,1,Social Media,Thinking about future,About Food,Sharing feelings with someone,Depressed,Yes
+25-08-2022 22:02,Male,19,CSE,No,Future scope,2,8,Yes,6,No,2,Other  ( Series/Movies ),No stress ,During exams,Travelling,"Happy, Boring",No
+25-08-2022 22:03,Female,19,ECE,No,Interested,3,8.25,No,5,No,7,Studies,Studies/work,About Faculty,Sharing feelings with someone,Happy,No
+25-08-2022 22:03,Male,19,ECE,No,Interested,3,8.23,No,4,No,6,Studies,Studies/work,About Faculty,Travelling,Happy,No
+25-08-2022 22:03,Male,19,CSE,Yes,Future scope,3,7.57,Yes,7,Yes,5,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 22:03,Male,19,CSE,Yes,Future scope,3,0,No,4,No,4,Social Media,I want to complete our OE course in our university itself.,About Money,Being calm or Being alone,"Depressed, Stressed, Boring",No
+25-08-2022 22:03,Male,19,IT,Yes,Future scope,2,7.59,Yes,4,Yes,8,Studies,Thinking about future,About Food,Meditation,Boring,No
+25-08-2022 22:04,Male,19,ECE,No,Due to Family pressure,3,5,No,4,Yes,5,Video games,Thinking about future,About Money,Playing pubg,"Depressed, Happy",No
+25-08-2022 22:04,Male,19,CSE,No,Interested,2,8.67,Yes,4,No,5,Studies,Thinking about future,During exams,Listen's Music,"Depressed, Stressed, Boring",No
+25-08-2022 22:04,Male,24,COMMERCE ,Yes,All are choosing so I also chosen,4,6.43,Yes,7,Yes,4,Social Media,Family,About Money,Doing any physical activity,Stressed,Yes
+25-08-2022 22:07,Male,20,CSE,Yes,Interested,2,8.32,Yes,8,No,5,Studies,Thinking about future,About Faculty,Sharing feelings with someone,Boring,Yes
+25-08-2022 22:07,Male,20,CSE,Yes,Future scope,2,7.17,Yes,8,Yes,4,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 22:08,Male,20,CSE,Yes,Interested,2,8.27,No,8,No,6,Studies,Studies/work,About Faculty,Being calm or Being alone,Happy,No
+25-08-2022 22:08,Male,20,CSE,Yes,Interested,2,7.41,Yes,8,Yes,1,Social Media,Studies/work,During exams,Listen's Music,Depressed,Yes
+25-08-2022 22:09,Male,20,CSE,Yes,Future scope,2,8.58,No,8,No,2,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 22:09,Male,20,CSE,Yes,Interested,2,9,Yes,8,Yes,8,Social Media,Studies/work,About Faculty,Listen's Music,Boring,No
+25-08-2022 22:09,Male,20,CSE,No,All are choosing so I also chosen,2,8.5,No,8,No,2,Other  ( Series/Movies ),Thinking about future,About Money,Being calm or Being alone,Depressed,No
+25-08-2022 22:09,Male,20,CSE,Yes,Future scope,2,7.79,No,8,No,5,Social Media,Studies/work,About Money,Being calm or Being alone,Boring,No
+25-08-2022 22:10,Male,20,CSE,Yes,Interested,2,8.22,Yes,8,No,5,Social Media,Thinking about future,No sleep,Listen's Music,Boring,No
+25-08-2022 22:10,Male,20,CSE,Yes,Future scope,2,8.58,No,8,No,2,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+25-08-2022 22:11,Female,20,CSE,No,Interested,2,9.02,No,8,No,5,Studies,"Studies like lots of works and assignments, more courses we want prepare for at a time , lots of time wastage in other activities, more stress of internships and nptel courses. ",During exams,Listen's Music,"Depressed, Stressed, Boring",No
+25-08-2022 22:11,Male,20,CSE,Yes,Future scope,2,7,Yes,8,No,8,Social Media,Thinking about future,About Food,Listen's Music,Depressed,Yes
+25-08-2022 22:16,Male,20,CSE,Yes,Future scope,3,8,No,8,Yes,9,Social Media,Thinking about future,About Money,Being calm or Being alone,Boring,No
+25-08-2022 22:17,Male,20,CIVIL ,Yes,Due to Family pressure,2,8,Yes,10,No,5,Other  ( Series/Movies ),Thinking about future,About Money,Listen's Music,"Depressed, Boring",No
+25-08-2022 22:17,Male,20,FOODTECH,Yes,Future scope,3,9,No,10,No,1,Other  ( Series/Movies ),Studies/work,About Food,Listen's Music,Boring,No
+25-08-2022 22:22,Female,20,FOODTECH,Yes,Interested,3,8,Yes,10,No,5,Social Media,Studies/work,About Food,Listen's Music,Stressed,No
+25-08-2022 22:23,Male,20,CSE,Yes,Interested,3,7,Yes,10,Yes,4,Social Media,Other,During exams,A call with parents,Happy,Yes
+25-08-2022 22:24,Male,20,CSE,Yes,Future scope,3,7.47,Yes,9,No,5,Studies,Thinking about future,About Money,Meditation,Depressed,No
+25-08-2022 22:26,Male,20,CSE,Yes,Future scope,2,7.95,Yes,9,No,4,Social Media,Family,About Money,Listen's Music,Depressed,No
+25-08-2022 22:26,Male,18,CSE,No,Interested,2,7,Yes,9,No,5,Studies,Health,About Faculty,Doing any physical activity,Happy,No
+25-08-2022 22:27,Female,18,EEE,Yes,Interested,1,9.08,Yes,9,Yes,4,Other  ( Series/Movies ),Thinking about future,About Money,Listen's Music,Boring,No
+25-08-2022 22:27,Male,19,CSE,Yes,Interested,2,9.18,Yes,9,Yes,1,Studies,Studies/work,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 22:29,Male,19,CSE,Yes,Interested,2,9.18,Yes,9,Yes,2,Studies,Studies/work,No sleep,Being calm or Being alone,Boring,No
+25-08-2022 22:29,Male,19,CSE,Yes,Future scope,2,0,Yes,7,No,1,Studies,Studies/work,About Food,Sharing feelings with someone,Stressed,No
+25-08-2022 22:31,Male,19,CSE,Yes,Interested,2,8,Yes,7,Yes,5,Social Media,Studies/work,About Money,Sharing feelings with someone,Boring,No
+25-08-2022 22:31,Female,19,CSE,Yes,Interested,3,8,Yes,7,No,1,Social Media,Thinking about future,About Food,Being calm or Being alone,Depressed,No
+25-08-2022 22:33,Male,19,CSE,Yes,Interested,2,8,Yes,7,No,5,Studies,Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 22:34,Male,19,CSE,Yes,Interested,2,9,Yes,7,Yes,2,Studies,Health,No sleep,Listen's Music,Happy,No
+25-08-2022 22:35,Male,19,CSE,Yes,Future scope,2,8.68,No,5,No,1,Studies,Thinking about future,No sleep,Meditation,Boring,No
+25-08-2022 22:37,Male,19,CSE,Yes,Future scope,3,7,Yes,5,Yes,5,Social Media,Thinking about future,About Love,Being calm or Being alone,Happy,No
+25-08-2022 22:38,Male,19,CSE,No,Future scope,3,8.75,Yes,5,No,5,Social Media,Studies/work,About Faculty,Listen's Music,"Stressed, Boring",No
+25-08-2022 22:38,Male,19,CSE,No,Interested,3,7.7,Yes,5,No,5,Video games,Thinking about future,About Food,Listen's Music,Happy,No
+25-08-2022 22:39,Female,19,CSE,No,Due to Family pressure,3,7,No,5,No,5,Social Media,Studies/work,No sleep,Listen's Music,Boring,No
+25-08-2022 22:39,Male,23,CSE,Yes,Interested,4,9.75,Yes,5,Yes,5,Studies,No stress,About Money,By sharing the feeling with god,Happy,No
+25-08-2022 22:41,Female,21,FORENSICSCIENCE,Yes,Interested,3,6,No,5,Yes,5,Social Media,Thinking about future,During exams,Being calm or Being alone,Happy,No
+25-08-2022 22:41,Male,21,CSE,Yes,Future scope,3,7,Yes,5,No,5,Social Media,Thinking about future,During exams,Being calm or Being alone,Boring,No
+25-08-2022 22:47,Female,21,CSE,Yes,Future scope,3,8.37,No,5,No,5,Studies,Thinking about future,During exams,Listen's Music,"Depressed, Boring",No
+25-08-2022 22:48,Male,21,CSE,Yes,Interested,2,8.21,Yes,5,No,5,Other  ( Series/Movies ),Thinking about future,About Money,Listen's Music,Happy,No
+25-08-2022 22:48,Female,21,CSE,Yes,Future scope,3,7,Yes,5,Yes,5,Social Media,Thinking about future,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 22:50,Male,21,CSE,Yes,Interested,2,7.5,No,5,No,2,Studies,Thinking about future,During exams,Being calm or Being alone,Stressed,No
+25-08-2022 22:50,Male,21,CSE,Yes,Interested,2,8.75,Yes,5,No,2,Studies,No stress. ,About Money,Listen's Music,Boring,Yes
+25-08-2022 22:50,Female,21,CSE,Yes,Future scope,2,8.8,Yes,7,No,2,Other  ( Series/Movies ),Thinking about future,During exams,Sharing feelings with someone,"Stressed, Happy, Boring",No
+25-08-2022 22:50,Male,21,CSE,Yes,Future scope,2,9,Yes,7,No,2,Video games,Studies/work,During exams,Listen's Music,Happy,No
+25-08-2022 22:50,Female,21,CSE,Yes,Interested,2,9.04,No,7,No,2,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Boring,No
+25-08-2022 22:51,Female,21,CSE,Yes,Future scope,2,8,No,7,No,2,Studies,Studies/work,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 22:53,Female,17,CSE,Yes,Future scope,2,8.5,Yes,7,Yes,2,Studies,Thinking about future,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 22:54,Male,17,CSE,Yes,All are choosing so I also chosen,2,0,Yes,7,No,8,Social Media,Thinking about future,During exams,Listen's Music,Happy,No
+25-08-2022 22:56,Female,17,CSE,Yes,Future scope,2,9.17,No,7,No,8,Studies,all of the above,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 22:57,Female,17,CSE,Yes,Interested,3,8,Yes,7,No,8,Social Media,Thinking about future,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 22:57,Male,18,CSE,Yes,Future scope,3,8.18,Yes,7,No,8,Studies,Studies/work,About Food,Being calm or Being alone,Happy,No
+25-08-2022 22:57,Male,18,CSE,Yes,Interested,2,7.5,No,7,Yes,8,Social Media,Thinking about future,During exams,Being calm or Being alone,Boring,No
+25-08-2022 22:58,Male,18,CSE,Yes,Due to Family pressure,2,9,Yes,7,No,8,Social Media,Family,About Money,Listen's Music,Boring,Yes
+25-08-2022 23:01,Female,18,CSE,No,Future scope,3,8.24,No,7,No,8,Social Media,Thinking about future,During exams,Sharing feelings with someone,Happy,No
+25-08-2022 23:03,Male,18,CSE ,Yes,Future scope,2,8.29,Yes,7,No,8,Social Media,Studies/work,No sleep,Listen's Music,Boring,No
+25-08-2022 23:05,Male,18,CSE,Yes,Interested,2,0,No,7,No,10,Studies,Studies/work,About Money,Listen's Music,Stressed,No
+25-08-2022 23:08,Male,19,CSE,Yes,Interested,2,8.86,No,7,No,5,Social Media," Studies , family, thinking🤔 about me, but  i",About Food,Listen's Music,Happy,Yes
+25-08-2022 23:10,Male,19,CSE,Yes,Future scope,2,8.3,Yes,7,No,1,Social Media,Studies/work,About Food,Listen's Music,Boring,No
+25-08-2022 23:10,Male,19,CSE,Yes,Interested,2,0,No,7,No,1,Studies,Studies/work,No sleep,Being calm or Being alone,Happy,No
+25-08-2022 23:11,Male,19,CSE,Yes,Future scope,2,6.75,Yes,7,No,10,Social Media,Studies/work,About Food,Listen's Music,Boring,No
+25-08-2022 23:18,Male,19,CSE,Yes,Future scope,2,7,No,6,No,7,Studies,Thinking about future,About Love,Listen's Music,"Depressed, Stressed, Boring",No
+25-08-2022 23:21,Male,19,CSE,Yes,Future scope,2,6,No,6,No,2,Social Media,Studies/work,During exams,Sharing feelings with someone,Boring,No
+25-08-2022 23:30,Male,19,CSE,Yes,Interested,2,8.5,Yes,6,No,4,Other  ( Series/Movies ),Studies/work,About Food,Listen's Music,Boring,No
+25-08-2022 23:35,Male,19,CSE ,Yes,Interested,2,6.88,Yes,6,No,8,Social Media,Thinking about future,During exams,Listen's Music,Boring,Yes
+25-08-2022 23:35,Male,19,BIOTECH,Yes,Future scope,2,5,No,6,No,8,Social Media,Studies/work,No sleep,all ,"Depressed, Boring",Yes
+25-08-2022 23:36,Male,19,CSE ,No,Interested,2,8.32,No,6,No,8,Social Media,Studies/work,About Faculty,Listen's Music,"Stressed, Boring",No
+25-08-2022 23:49,Male,19,CSE ,No,Future scope,2,6,No,6,No,8,Studies,Studies/work,During exams,Being calm or Being alone,Stressed,No
+26-08-2022 00:09,Male,19,CSE,Yes,Future scope,3,8.54,Yes,6,No,8,Studies,Thinking about future,During exams,Being calm or Being alone,"Depressed, Stressed, Happy, Boring",No
+26-08-2022 00:21,Male,19,CSE,Yes,Future scope,3,9,Yes,6,No,8,Other  ( Series/Movies ),Thinking about future,No sleep,Being calm or Being alone,Stressed,No
+26-08-2022 00:22,Female,19,CSE ,Yes,Future scope,3,8,Yes,6,No,8,Social Media,Thinking about future,During exams,Meditation,"Stressed, Boring",No
+26-08-2022 00:26,Female,19,CSE,Yes,Future scope,2,9.18,Yes,6,No,8,Social Media,Studies/work,During exams,Listen's Music,Depressed,No
+26-08-2022 00:40,Male,20,CSE,Yes,Interested,3,8.4,No,6,No,7,Other  ( Series/Movies ),Thinking about future,About Love,Being calm or Being alone,Boring,Yes
+26-08-2022 01:26,Male,20,BIOMED ,Yes,Interested,3,8.34,No,6,No,3,Other  ( Series/Movies ),Thinking about future,No sleep,Sharing feelings with someone,"Depressed, Boring",Yes
+26-08-2022 01:56,Female,20,CSE,Yes,Future scope,2,7,Yes,6,No,3,Other  ( Series/Movies ),Studies/work,During exams,Being calm or Being alone,Depressed,No
+26-08-2022 03:13,Male,20,CSE,No,Future scope,3,7,No,6,No,3,Studies,Studies/work,During exams,Listen's Music,Boring,No
+26-08-2022 03:21,Male,20,CSE,Yes,Interested,2,4.55,No,6,No,3,Studies,Health,No sleep,"Music, travel, codeine",Boring,No
+26-08-2022 03:26,Female,20,MBBS,Yes,All are choosing so I also chosen,2,6,No,6,No,3,Social Media,Thinking about future,During exams,Listen's Music,Depressed,No
+26-08-2022 05:09,Female,20,CSE,Yes,Future scope,3,8.05,Yes,6,Yes,3,Other  ( Series/Movies ),Thinking about future,About Faculty,Listen's Music,"Stressed, Boring",Yes
+26-08-2022 05:19,Male,20,BARCH,Yes,Interested,3,7,No,6,No,3,Social Media,Studies/work,No sleep,Travelling,"Happy, Boring",Yes
+26-08-2022 06:19,Female,20,ECE,Yes,Future scope,3,8.6,No,6,Yes,3,Social Media,Thinking about future,During exams,Being calm or Being alone,Boring,Yes
+26-08-2022 06:29,Female,20,ECE,Yes,Interested,3,8,No,5,No,3,Social Media,Thinking about future,During exams,Being calm or Being alone,Boring,No
+26-08-2022 06:54,Male,20,CSE,Yes,Interested,3,8.3,No,5,Yes,3,Video games,Thinking about future,About Money,Being calm or Being alone,"Depressed, Boring",No
+26-08-2022 07:03,Female,20,ECE,Yes,Future scope,3,0,Yes,5,Yes,3,Social Media,Studies/work,During exams,Listen's Music,"Happy, Boring",No
+26-08-2022 07:15,Male,19,CSE,Yes,Interested,2,8.11,Yes,5,No,3,Studies,Health,About Food,Sharing feelings with someone,Boring,No
+26-08-2022 07:21,Female,19,CSE,Yes,Due to Family pressure,2,6,No,5,No,3,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Depressed,No
+26-08-2022 07:25,Male,19,CSE,Yes,Interested,3,8,No,5,Yes,3,Social Media,Thinking about future,During exams,Sharing feelings with someone,Depressed,No
+26-08-2022 07:26,Female,19,MBBS,Yes,Interested,2,7,Yes,5,No,3,Social Media,Thinking about future,During exams,Sharing feelings with someone,Happy,No
+26-08-2022 07:57,Male,19,CSE,Yes,Interested,2,5,No,5,No,3,Social Media,Studies/work,During exams,Travelling,"Happy, Boring",No
+26-08-2022 07:58,Male,19,CSE,Yes,Interested,2,7,No,5,No,10,Social Media,Studies/work,During exams,Travelling,"Happy, Boring",No
+26-08-2022 08:16,Male,19,CSE,Yes,Future scope,3,8,Yes,5,Yes,10,Social Media,No stress,About Money,Listen's Music,Happy,Yes
+26-08-2022 08:17,Female,19,CSE,Yes,Interested,2,8.3,Yes,5,No,10,Social Media,Studies/work,During exams,Listen's Music,Depressed,No
+26-08-2022 08:19,Male,19,CSE,Yes,Interested,2,7.5,Yes,5,Yes,10,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 08:22,Male,19,CSE,Yes,Interested,3,7.66,Yes,5,No,10,Social Media,Studies/work,During exams,Listen's Music,Happy,No
+26-08-2022 08:28,Female,19,CSE ,No,Due to Family pressure,3,0,No,5,Yes,10,Other  ( Series/Movies ),Thinking about future,About Money,Listen's Music,Boring,No
+26-08-2022 08:30,Female,19,CSE,No,Future scope,3,9.05,Yes,5,Yes,10,Other  ( Series/Movies ),Thinking about future,About Money,Being calm or Being alone,Boring,No
+26-08-2022 08:41,Male,19,CSE,Yes,Future scope,2,8.77,No,5,No,10,Other  ( Series/Movies ),All the above ,During exams,Sharing feelings with someone,Boring,No
+26-08-2022 08:48,Female,19,AERO,Yes,Interested,3,9.34,Yes,5,Yes,10,Other  ( Series/Movies ),Studies/work,No sleep,Listen's Music,"Depressed, Stressed, Boring",No
+26-08-2022 08:50,Female,19,CSE,Yes,Future scope,2,8.8,Yes,5,No,2,Other  ( Series/Movies ),Thinking about future,During exams,Being calm or Being alone,Boring,No
+26-08-2022 08:52,Female,19,AERO,No,Interested,2,9.13,Yes,5,No,2,Studies,Thinking about future,During exams,Travelling,Depressed,No
+26-08-2022 08:53,Female,19,MBBS,Yes,Interested,2,9,Yes,5,No,2,Other  ( Series/Movies ),Friends,During exams,Sharing feelings with someone,"Happy, Boring",No
+26-08-2022 08:53,Female,17,ECE,Yes,Interested,1,8,Yes,5,Yes,2,Other  ( Series/Movies ),Thinking about future,About Money,Sharing feelings with someone,Boring,No
+26-08-2022 08:55,Female,20,AERO,Yes,Interested,3,8.8,No,5,No,2,Social Media,Studies/work,During exams,Sharing feelings with someone,Boring,No
+26-08-2022 09:01,Male,20,CSE,Yes,Future scope,2,8,No,5,No,2,Social Media,Thinking about future,About Money,Being calm or Being alone,Boring,Yes
+26-08-2022 09:01,Female,20,AERO,Yes,Interested,3,9,No,5,No,2,Social Media,Health,During exams,Being calm or Being alone,"Depressed, Boring",No
+26-08-2022 09:02,Male,20,CSE,Yes,Interested,2,7,Yes,8,Yes,2,Studies,Thinking about future,No sleep,Listen's Music,Depressed,Yes
+26-08-2022 09:04,Male,20,CSE,Yes,Interested,2,7.96,Yes,8,Yes,2,Other  ( Series/Movies ),Home sick,About Food,Listen's Music,Boring,Yes
+26-08-2022 09:04,Male,20,CSE,Yes,Future scope,2,8.24,Yes,8,No,2,Studies,Thinking about future,About Money,Being calm or Being alone,Boring,No
+26-08-2022 09:04,Male,20,CSE,Yes,Future scope,2,7.54,Yes,8,No,2,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 09:04,Male,20,CSE,Yes,Future scope,2,8.8,Yes,8,No,2,Studies,Studies/work,During exams,Doing any physical activity,Boring,Yes
+26-08-2022 09:05,Female,20,AERO,Yes,Interested,2,8.09,No,8,No,2,Social Media,Thinking about future,During exams,Travelling,Happy,No
+26-08-2022 09:05,Male,20,AERO,Yes,Future scope,3,8.5,Yes,8,Yes,2,Social Media,Studies/work,During exams,Doing any physical activity,Happy,No
+26-08-2022 09:05,Female,20,AERO,Yes,Interested,3,8.5,Yes,8,No,2,Other  ( Series/Movies ),Studies/work,No sleep,Sharing feelings with someone,Stressed,No
+26-08-2022 09:06,Male,20,CSE,Yes,Interested,2,8.8,No,8,No,4,Studies,Thinking about future,During exams,Sharing feelings with someone,"Depressed, Stressed",Yes
+26-08-2022 09:06,Male,20,CSE ,Yes,Future scope,2,8.7,Yes,8,Yes,4,Studies,Studies/work,About Food,Sharing feelings with someone,Depressed,Yes
+26-08-2022 09:06,Male,20,CSE,Yes,Interested,2,7.1,Yes,8,No,4,Studies,Thinking about future,About Money,Listen's Music,Depressed,Yes
+26-08-2022 09:09,Male,20,CSE,No,Interested,2,8.4,Yes,8,No,4,Social Media,Thinking about future,About Food,Listen's Music,Happy,Yes
+26-08-2022 09:09,Male,20,CSE,Yes,Future scope,2,0,Yes,8,No,4,Studies,Thinking about future,During exams,Sleeping,Boring,No
+26-08-2022 09:10,Male,20,CSE,Yes,Interested,2,7,Yes,8,No,4,Social Media,Studies/work,During exams,Doing any physical activity,Happy,No
+26-08-2022 09:11,Male,20,CSE ,Yes,Interested,2,8,No,8,No,4,Social Media,Studies/work,About Food,Listen's Music,Boring,No
+26-08-2022 09:12,Male,20,CSE ,Yes,All are choosing so I also chosen,2,7,No,8,No,4,Social Media,Studies/work,About Food,Being calm or Being alone,"Depressed, Boring",No
+26-08-2022 09:15,Female,20,BARCH ,Yes,Interested,3,8,Yes,8,No,4,Social Media,Both studies and family ,No sleep,Doing any physical activity,Boring,No
+26-08-2022 09:15,Male,20,CSE,Yes,Future scope,2,8.88,Yes,8,Yes,4,Social Media,Studies/work,During exams,Being calm or Being alone,Boring,No
+26-08-2022 09:18,Male,20,CSE,No,Interested,2,6,No,6,No,4,Studies,Studies/work,About Money,Travelling,Happy,No
+26-08-2022 09:20,Male,20,AERO,Yes,Interested,3,8.7,No,6,Yes,4,Other  ( Series/Movies ),Studies/work,No sleep,Being calm or Being alone,"Happy, Boring",No
+26-08-2022 09:21,Male,20,CSE,No,Future scope,2,8,Yes,6,Yes,4,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 09:21,Male,20,AERO,Yes,Future scope,2,8,No,6,No,4,Social Media,Thinking about future,About Money,Being calm or Being alone,Depressed,No
+26-08-2022 09:23,Male,20,AERO,Yes,Future scope,2,8.1,Yes,6,Yes,4,Social Media,Thinking about future,About Money,Being calm or Being alone,"Stressed, Happy",No
+26-08-2022 09:24,Female,20,BARCH,Yes,Future scope,3,7.22,No,6,Yes,4,Social Media,Studies/work,During exams,Listen's Music,Happy,No
+26-08-2022 09:24,Male,20,CSE,Yes,Interested,2,6,Yes,6,Yes,8,Social Media,Studies/work,No sleep,Being calm or Being alone,Happy,Yes
+26-08-2022 09:30,Male,20,CSE,Yes,Future scope,2,8,No,6,No,8,Social Media,Studies/work,About Faculty,Listen's Music,Happy,No
+26-08-2022 09:33,Male,19,CSE,Yes,Future scope,2,7,No,6,No,8,Social Media,Studies/work,About Money,Being calm or Being alone,Boring,Yes
+26-08-2022 09:35,Male,19,CSE,No,Interested,2,8,No,6,No,8,Social Media,Thinking about future,About Money,Being calm or Being alone,"Depressed, Stressed, Boring",No
+26-08-2022 09:35,Male,19,CSE,Yes,Future scope,2,7,No,6,No,8,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 09:44,Male,19,CSE,No,Future scope,2,4.59,Yes,6,No,8,Studies,Studies/work,During exams,Meditation,Depressed,No
+26-08-2022 10:36,Female,19,AERO,Yes,Interested,3,6,Yes,6,No,8,Video games,Thinking about future,About Money,Being calm or Being alone,"Depressed, Stressed, Boring",Yes
+26-08-2022 11:01,Female,19,CSE,Yes,Future scope,3,8.9,No,6,No,8,Social Media,Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 11:03,Male,19,CSE,Yes,Interested,2,7,No,6,No,8,Studies,Studies/work,During exams,Listen's Music,Boring,No
+26-08-2022 11:07,Male,19,CSE,No,Due to Family pressure,2,8.36,No,6,No,8,Social Media,Thinking about future,During exams,Listen's Music,Happy,Yes
+26-08-2022 11:09,Male,19,CSE,Yes,Future scope,3,8,Yes,6,No,8,Social Media,Thinking about future,During exams,Being calm or Being alone,Boring,No
+26-08-2022 11:18,Male,19,CSE,Yes,Due to Family pressure,3,7,No,6,No,8,Social Media,Thinking about future,About Love,Sharing feelings with someone,"Depressed, Stressed, Happy, Boring",Yes
+26-08-2022 11:39,Male,19,CSE,Yes,Future scope,3,8.08,Yes,7,Yes,8,Social Media,Studies/work,About Love,Doing any physical activity,Happy,Yes
+26-08-2022 11:46,Male,19,CSE,Yes,Future scope,2,0,Yes,7,Yes,2,Studies,Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 11:54,Male,24,AUTOMOB,Yes,Interested,3,8,No,7,No,6,Other  ( Series/Movies ),Family,About Money,Listen's Music,Boring,No
+26-08-2022 12:10,Male,19,CSE,Yes,Interested,4,7.4,No,7,No,6,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 12:40,Male,19,CSE,Yes,Future scope,2,8,No,7,No,6,Social Media,Thinking about future,About Food,Sharing feelings with someone,Depressed,Yes
+26-08-2022 12:55,Male,19,CSE,Yes,Future scope,2,7.54,Yes,7,Yes,6,Studies,Thinking about future,During exams,Listen's Music,Boring,No
+26-08-2022 15:22,Male,19,IT,Yes,Future scope,2,8,No,7,Yes,6,Social Media,Thinking about future,During exams,Listen's Music,Boring,Yes
+26-08-2022 15:22,Male,19,IT,Yes,Future scope,2,6,Yes,7,Yes,6,Video games,Thinking about future,During exams,Sharing feelings with someone,Boring,Yes
+26-08-2022 15:25,Male,19,CSE,Yes,Interested,2,7.5,Yes,7,Yes,6,Other  ( Series/Movies ),Family,During exams,Listen's Music,Depressed,No
+26-08-2022 15:41,Male,19,IT,Yes,Interested,2,8.25,No,7,No,6,Social Media,Thinking about future,No sleep,Read Word of God,Happy,Yes
+26-08-2022 15:42,Female,19,IT,Yes,Interested,2,8,No,7,No,6,Video games,Thinking about future,About Money,Being calm or Being alone,Stressed,No
+26-08-2022 15:47,Male,19,IT,Yes,Due to Family pressure,2,9,No,7,No,6,Studies,Studies/work,During exams,Listen's Music,Boring,No
+26-08-2022 15:48,Male,19,IT,Yes,Future scope,2,7.8,Yes,7,Yes,6,Social Media,Thinking about future,During exams,Playing ,Boring,Yes
+26-08-2022 15:57,Male,19,IT,Yes,Interested,2,8,No,7,Yes,6,Other  ( Series/Movies ),Going to part job,About Money,Listen's Music,Happy,Yes
+26-08-2022 16:11,Male,19,CSE ,Yes,Future scope,2,7,Yes,7,Yes,2,Other  ( Series/Movies ),Thinking about future,About Faculty,Listen's Music,Boring,No
+26-08-2022 16:19,Male,19,CSE,Yes,Future scope,2,7.4,No,4,No,4,Studies,Studies/work,About Food,Being calm or Being alone,Boring,No
+26-08-2022 17:17,Male,19,ECE,Yes,Interested,3,8,Yes,4,Yes,4,Other  ( Series/Movies ),Studies/work,During exams,Listen's Music,Boring,Yes
+26-08-2022 17:29,Male,23,COMMERCE ,Yes,Interested,4,8.6,No,4,Yes,4,Other  ( Series/Movies ),Thinking about future,About Money,Being calm or Being alone,"Happy, Boring",Yes
+26-08-2022 17:58,Female,19,CSE,Yes,Interested,2,8.58,Yes,4,Yes,4,Studies,Studies/work,During exams,Listen's Music,Boring,No
+26-08-2022 18:04,Male,19,CSE,Yes,Future scope,2,9,Yes,4,No,4,Other  ( Series/Movies ),About friends too,About Money,Listen's Music,Stressed,No
+26-08-2022 18:09,Male,19,ECE,Yes,Interested,3,8,No,4,No,4,Social Media,Family,About Money,Listen's Music,Boring,No
+26-08-2022 19:03,Female,19,ECE,Yes,Future scope,2,7,Yes,4,Yes,4,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+26-08-2022 19:30,Male,19,ECE,No,Interested,2,8,No,4,Yes,4,Social Media,Studies/work,About Money,Listen's Music,Boring,No
+26-08-2022 19:58,Male,19,CSE,Yes,Future scope,2,6,Yes,4,No,4,Video games,Studies/work,About Money,Listen's Music,Happy,No
+26-08-2022 20:24,Male,19,CSE,Yes,Future scope,2,7.5,Yes,4,No,4,Studies,Family,During exams,Listen's Music,Boring,No
+26-08-2022 20:50,Male,19,IT,No,Future scope,2,8,No,4,No,4,Social Media,Thinking about future,About Money,Sharing feelings with someone,Depressed,No
+26-08-2022 21:00,Female,19,CSE,Yes,Interested,1,8,No,4,Yes,4,Studies,Thinking about future,During exams,Doing any physical activity,Stressed,No
+26-08-2022 21:15,Female,19,CSE ,Yes,Future scope,3,9,No,6,Yes,4,Other  ( Series/Movies ),Studies/work,No sleep,Listen's Music,Boring,No
+26-08-2022 21:40,Male,19,CSE,Yes,Interested,1,7,Yes,8,Yes,4,Social Media,Thinking about future,During exams,Listen's Music,Boring,Yes
+26-08-2022 22:08,Male,19,IT,Yes,Interested,2,6,No,8,Yes,4,Social Media,Studies/work,During exams,Listen's Music,Happy,No
+26-08-2022 22:13,Female,19,CSE,Yes,Interested,2,8.33,No,8,No,4,Other  ( Series/Movies ),Thinking about future,During exams,Being calm or Being alone,"Stressed, Boring",Yes
+26-08-2022 22:14,Male,18,ECE,Yes,Interested,1,8,No,8,No,5,Video games,Health,About Food,Listen's Music,Happy,No
+26-08-2022 22:25,Female,18,MATHS,Yes,Interested,1,8,Yes,8,Yes,5,Studies,Nothing,Threaten,Doing any physical activity,Happy,No
+26-08-2022 22:41,Male,18,CSE,No,Interested,2,8.5,Yes,8,Yes,5,Studies,Studies/work,About Food,Sharing feelings with someone,Boring,Yes
+26-08-2022 22:53,Female,18,MBBS,Yes,Interested,2,9,Yes,8,Yes,5,Social Media,Studies/work,During exams,Being calm or Being alone,Boring,No
+26-08-2022 22:54,Female,18,ARTS,Yes,Interested,1,6.3,Yes,8,No,5,Social Media,Studies/work,During exams,Listen's Music,Boring,No
+26-08-2022 22:55,Female,18,ARTS,Yes,Future scope,2,7,Yes,4,Yes,5,Social Media,"Family,studies",About Faculty,"Being alone, traveling ",Happy,No
+27-08-2022 11:28,Male,18,IT,Yes,Future scope,3,8,Yes,7,Yes,5,Social Media,Thinking about future,About Money,Being calm or Being alone,"Depressed, Boring",Yes
+27-08-2022 12:44,Female,18,CSE,Yes,Future scope,2,7,No,5,No,5,Social Media,Health,During exams,Sharing feelings with someone,Boring,No
+27-08-2022 13:04,Female,18,CSE,Yes,Future scope,3,8.2,Yes,7,Yes,5,Studies,Health,During exams,Listen's Music,"Depressed, Stressed, Boring",No
+27-08-2022 13:51,Male,18,IT,Yes,Interested,2,10,Yes,5,Yes,5,Other  ( Series/Movies ),Thinking about future,No sleep,Travelling,Boring,Yes
+27-08-2022 16:38,Male,18,CSE,Yes,Future scope,2,8.13,No,5,No,2,Other  ( Series/Movies ),Thinking about future,Threaten,Being calm or Being alone,Depressed,No
+27-08-2022 17:39,Male,18,BIOMED,Yes,Interested,2,8.17,Yes,7,No,4,Studies,Studies/work,During exams,Listen's Music,Boring,Yes
+27-08-2022 18:11,Female,18,BARCH,Yes,Interested,3,8.33,No,4,No,1,Studies,Studies/work,During exams,Being calm or Being alone,Boring,No
+27-08-2022 19:04,Male,18,IT,Yes,Interested,2,7.6,Yes,8,Yes,1,Social Media,Thinking about future,During exams,Doing any physical activity,Stressed,No
+27-08-2022 21:02,Female,20,CSE,Yes,Interested,3,7.8,Yes,10,No,1,Other  ( Series/Movies ),Thinking about future,During exams,Listen's Music,Boring,No
+28-08-2022 16:54,Male,20,BA ,Yes,Interested,2,9,Yes,9,No,7,Other  ( Series/Movies ),Thinking about future,About Money,Sharing feelings with someone,"Depressed, Boring",No
+29-08-2022 07:00,Male,20,ECE,Yes,Interested,3,8,No,5,No,9,Social Media,Thinking about future,During exams,Listen's Music,"Depressed, Stressed",No
