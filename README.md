@@ -49,3 +49,13 @@
 - The "Liked Songs" playlist on Spotify has been divided into two main clusters. When comparing Cluster 1 and Cluster 3, significant differences are observed in the audio features danceability and instrumentalness. Cluster 1 contains songs that are more instrumental and have higher danceability. The artist with the most songs in the playlist is Oscar and the Wolf.
 
 ![Image Name](assets/image/spotify_clustering.png)
+
+***
+
+## Identifying Abnormal Patterns and Predicting Mental Health Issues
+
+### Key Takeaway
+
+- Anomaly detection analysis was conducted on a dataset containing information about students' mental issues, revealing 24 abnormal values out of 468 values.
+
+![Image Name](assets/image/anomaly_detection.png)
